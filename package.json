@@ -1,0 +1,23 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon bash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donna-Sayos/Node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donna-Sayos/Node-practice/issues"
+  },
+  "homepage": "https://github.com/Donna-Sayos/Node-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
